@@ -22,7 +22,7 @@ The objective of this project was to design and generate five detailed business 
 ---
 
 ## **Purpose**  
-The primary purpose of this project was to provide business stakeholders with clear, data-driven insights that enable better decision-making. The reports address specific questions around sales performance, product trends, and geographical growth.  
+The reports address specific questions around sales performance, product trends, and geographical growth.  
 
 ---
 
@@ -35,21 +35,21 @@ These reports are critical for:
 
 ---
 
-## **Role of Reports**  
+## **Insights of Reports**  
 1. **Top 10 Products Report**:  
-   - Highlighted products with the highest percentage increase in net sales from 2020 to 2021.  
+   - Exceptional growth led by AQ Mx NB (+5000%).  
 
 2. **Division Report**:  
-   - Presented net sales for 2020 and 2021 with growth percentages for each division.  
+   - The PC division showed the highest growth at 313.7%.  
 
 3. **Top & Bottom 5 Products by Quantity Sold**:  
-   - Identified best and least-performing products by quantity sold.  
+   -  AQ Master wired x1 Ms ranked #1; AQ Home Allin1 Gen 2 performed lowest.  
 
 4. **New Products in 2021**:  
-   - Listed products with 0% sales in 2020, signifying new launches in 2021.  
+   - Notables like AQ Gen Y added over $19M in sales..  
 
 5. **Top 5 Countries by Net Sales**:  
-   - Highlighted top-performing countries based on net sales in 2021.  
+   - India led with $161.3M, followed by the USA at $87.8M.  
 
 ---
 
